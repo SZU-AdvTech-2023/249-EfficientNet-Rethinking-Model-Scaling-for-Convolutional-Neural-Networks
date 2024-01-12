@@ -1,0 +1,8 @@
+@inproceedings{REPO249,
+    author = "Tan, Mingxing and Le, Quoc",
+    booktitle = "International conference on machine learning",
+    organization = "PMLR",
+    pages = "6105--6114",
+    title = "{Efficientnet: Rethinking Model Scaling for Convolutional Neural Networks}",
+    year = "2019"
+}
